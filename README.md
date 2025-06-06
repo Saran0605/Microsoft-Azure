@@ -76,7 +76,7 @@ This document showcases a series of hands-on lab activities and practical experi
 
 ---
 
-## 10. 🌐 Browsing With DDoS Shield Enabled
+## 10. 🌐 Task - Browsing With DDoS Shield Enabled
 
 > Testing browsing functionality under DDoS protection setup to ensure resilience and uptime.
 
