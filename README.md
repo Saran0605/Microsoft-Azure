@@ -102,8 +102,4 @@ This document showcases a series of hands-on lab activities and practical experi
 
 ---
 
-### ✅ Summary
 
-These screenshots represent real-time implementation of key **cloud services, virtualization techniques, container orchestration, security mechanisms**, and **IoT integrations**. This hands-on exposure provides a foundational understanding of how enterprise-scale systems are hosted, secured, and monitored using cloud technologies.
-
----
