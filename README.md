@@ -1,4 +1,4 @@
-# ☁️ Cloud Computing & Virtualization Hands-on Practice
+# ☁️Microsoft Azure Hands-on Practice
 
 This document showcases a series of hands-on lab activities and practical experiments related to **Cloud Computing, Azure Services, Virtualization, Load Balancing, Web Hosting, and IoT**.
 
