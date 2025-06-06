@@ -61,7 +61,7 @@ This document showcases a series of hands-on lab activities and practical experi
 
 ---
 
-## 8. 🖥️ Website Hosting using Virtualization
+## 8. 🖥️ Task - Website Hosting using Virtualization
 
 > Hosting a live website on a virtual machine, demonstrating full-stack deployment via virtualization.
 
